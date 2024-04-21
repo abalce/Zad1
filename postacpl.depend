@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1708551489 source:c:\users\angel\desktop\nowe projekciki ez\postacpl\main.cpp
+	"postac.h"
+
+1708551349 c:\users\angel\desktop\nowe projekciki ez\postacpl\postac.h
+	<iostream>
+
